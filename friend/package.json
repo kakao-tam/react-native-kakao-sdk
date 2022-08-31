@@ -34,15 +34,19 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "kakao",
+    "kakao friend",
+    "kakao picker",
+    "kakao sdk friend"
   ],
   "repository": "https://github.com/kakao-tam/react-native-kakao-sdk",
   "author": "wisdomcdh <wisdomcdh@gmail.com> (https://github.com/wisdomcdh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wisdomcdh/react-native-kakao-sdk/issues"
+    "url": "https://github.com/kakao-tam/react-native-kakao-sdk/issues"
   },
-  "homepage": "https://github.com/wisdomcdh/react-native-kakao-sdk/tree/master/friend#readme",
+  "homepage": "https://github.com/kakao-tam/react-native-kakao-sdk/tree/master/friend#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

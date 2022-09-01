@@ -1,0 +1,6 @@
+rootProject.name = 'KakaoSdkNaviExample'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+
+include ':reactnativekakaosdknavi'
+project(':reactnativekakaosdknavi').projectDir = new File(rootProject.projectDir, '../../android')

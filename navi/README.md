@@ -8,6 +8,12 @@ React Native Library Module - KakaoSDK Navi
 yarn add react-native-kakao-common react-native-kakao-sdk-navi
 ```
 
+## Usage
+
+```js
+import NaviApi from "react-native-kakao-sdk-navi";
+```
+
 자세한 사용 방법은 [Navi 모듈 문서](https://github.com/kakao-tam/react-native-kakao-sdk/wiki/Navi)를 참고 하십시오.
 
 ## Contributing
